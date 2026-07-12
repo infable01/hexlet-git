@@ -1,2 +1,3 @@
 Hello Hexlet!
 I like to changes files
+stash не трогает новые файлы, так как они ещё не добавлены в индекс
